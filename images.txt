@@ -1,2 +1,3 @@
 1panel/maxkb:v1.2.1
 ghcr.io/open-webui/open-webui:main
+redis/redisinsight
